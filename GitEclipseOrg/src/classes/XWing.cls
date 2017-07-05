@@ -6,6 +6,8 @@ public class XWing {
   Integer deathStarsDestroyed;
   Decimal powerRemaining;
 
+  String customerName;
+  
   User    pilot;
   Account manufacturer;
 
